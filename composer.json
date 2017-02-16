@@ -1,6 +1,6 @@
 {
     "name": "laravel/socialite",
-    "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
+    "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries. (OctoberCms 5.1)",
     "keywords": ["oauth", "laravel"],
     "license": "MIT",
     "authors": [
@@ -11,10 +11,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~5.0|~6.0",
-        "illuminate/contracts": "~5.0",
-        "illuminate/http": "~5.0",
-        "illuminate/support": "~5.0",
         "league/oauth1-client": "~1.0"
     },
     "require-dev": {
